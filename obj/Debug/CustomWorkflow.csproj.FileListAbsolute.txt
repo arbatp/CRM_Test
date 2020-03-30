@@ -1,0 +1,10 @@
+C:\Users\ashis\source\repos\CustomWorkflow\CustomWorkflow\bin\Debug\CustomWorkflow.dll
+C:\Users\ashis\source\repos\CustomWorkflow\CustomWorkflow\bin\Debug\CustomWorkflow.pdb
+C:\Users\ashis\source\repos\CustomWorkflow\CustomWorkflow\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ashis\source\repos\CustomWorkflow\CustomWorkflow\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ashis\source\repos\CustomWorkflow\CustomWorkflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\ashis\source\repos\CustomWorkflow\CustomWorkflow\obj\Debug\CustomWorkflow.csprojAssemblyReference.cache
+C:\Users\ashis\source\repos\CustomWorkflow\CustomWorkflow\obj\Debug\CustomWorkflow.csproj.CoreCompileInputs.cache
+C:\Users\ashis\source\repos\CustomWorkflow\CustomWorkflow\obj\Debug\CustomWorkflow.csproj.CopyComplete
+C:\Users\ashis\source\repos\CustomWorkflow\CustomWorkflow\obj\Debug\CustomWorkflow.dll
+C:\Users\ashis\source\repos\CustomWorkflow\CustomWorkflow\obj\Debug\CustomWorkflow.pdb
